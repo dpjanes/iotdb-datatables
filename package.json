@@ -1,15 +1,12 @@
 {
-    "author": "David P. Janes <davidjanes@iotdb.org>",
+    "author": "David P. Janes <davidjanes@iotdb.org>", 
     "bugs": {
         "url": "https://github.com/dpjanes/iotdb-datatables/issues"
     }, 
     "dependencies": {
-        "iotdb-helpers": "~3.2.3", 
-        "datatables": "~2.15.0"
+        "iotdb-helpers": "~3.3.8"
     }, 
     "description": "Pipe Oriented Programming", 
-    "devDependencies": {
-    }, 
     "homepage": "https://github.com/dpjanes/node-iotdb", 
     "license": "Apache-2.0", 
     "main": "index.js", 
@@ -23,5 +20,5 @@
         "cover": "nyc --reporter=html mocha --recursive", 
         "test": "mocha --recursive --bail"
     }, 
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
