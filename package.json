@@ -4,7 +4,7 @@
         "url": "https://github.com/dpjanes/iotdb-datatables/issues"
     }, 
     "dependencies": {
-        "iotdb-helpers": "~3.3.9"
+        "iotdb-helpers": "~3.4.2"
     }, 
     "description": "Pipe Oriented Programming", 
     "homepage": "https://github.com/dpjanes/node-iotdb", 

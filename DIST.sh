@@ -6,7 +6,6 @@
 #   2019-04-26
 #
 
-exit 0
 PACKAGE=iotdb-datatables
 DIST_ROOT=/var/tmp/.dist.$$
 
