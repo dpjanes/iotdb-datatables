@@ -4,7 +4,7 @@
         "url": "https://github.com/dpjanes/iotdb-datatables/issues"
     }, 
     "dependencies": {
-        "iotdb-helpers": "~3.4.2"
+        "iotdb-helpers": "~3.4.20"
     }, 
     "description": "Pipe Oriented Programming", 
     "homepage": "https://github.com/dpjanes/node-iotdb", 
@@ -20,5 +20,5 @@
         "cover": "nyc --reporter=html mocha --recursive", 
         "test": "mocha --recursive --bail"
     }, 
-    "version": "1.0.3"
+    "version": "1.0.4"
 }
